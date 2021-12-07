@@ -15,7 +15,17 @@ pause nul
 cls
 color 5
 cls
-call npm i
+call npm install function-bind
+cls
+call npm install discord.js-selfbot-v11
+cls
+call npm install discordjs-lofy
+cls
+call npm install colors
+cls
+call npm install npm install node-fetch@2.6.1
+cls
+call npm install fs
 cls
 color 5
 echo.
