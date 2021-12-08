@@ -23,7 +23,7 @@ call npm install discordjs-lofy
 cls
 call npm install colors
 cls
-call npm install npm install node-fetch@2.6.1
+call npm install node-fetch@2.6.1
 cls
 call npm install fs
 cls
